@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'MyAnimeList',
-			icon: 'tv-2',
-			link: 'https://myanimelist.net/',
+			name: 'Nyaa.si',
+			icon: 'arrow-down-to-line',
+			link: 'https://nyaa.si/',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'MyAnimeList',
+			icon: 'tv-2',
+			link: 'https://myanimelist.net/',
 		},
 	],
 
