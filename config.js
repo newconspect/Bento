@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'MyAnimeList',
+			icon: 'tv-2',
+			link: 'https://myanimelist.net/',
 		},
 		{
 			id: '5',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lo-Fi Indie',
+					link: 'https://www.youtube.com/playlist?list=PLjYAKdfwx8HSOZiq4GfYdNLx7ree-PnKp',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sadcore',
+					link: 'https://www.youtube.com/playlist?list=PLcgelw-zgcoo9iovKLQP0qmQ3wKWe5Y-5',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Chill beats',
+					link: 'https://www.youtube.com/playlist?list=PLr3i86CHp6SwS6nguZqJcIz_m9TN_nvpA',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Weirdcore',
+					link: 'https://www.youtube.com/playlist?list=PLuCPwoWMlIXwdaelFq9eCjP8p4--dg1vq',
 				},
 			],
 		},
